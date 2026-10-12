@@ -1,0 +1,14 @@
+{
+	"geode": "5.11.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"version": "v1.0.0",
+	"id": "fullydraco.micromove",
+	"name": "Micro Move",
+	"developer": "fullydraco",
+	"description": "Editor: move selected objects by any tiny amount, or by exactly one smallest step the game can store."
+}
